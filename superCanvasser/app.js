@@ -1,0 +1,1 @@
+angular.module('superCanvasser', ['ui.bootstrap']);
